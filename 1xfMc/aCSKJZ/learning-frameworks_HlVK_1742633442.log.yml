@@ -22,7 +22,6 @@ exclude_patterns:
   - tests/
   - stubs/
   - scripts/
-  - security.txt
   - secrets.tar.enc
 checks:
   argument-count:

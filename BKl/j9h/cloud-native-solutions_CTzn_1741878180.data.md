@@ -259,7 +259,6 @@ Legend
 
 [Access Modes](https://kubernetes.io/docs/concepts/storage/persistent-volumes/#access-modes)
 * ReadWriteOnce(RWO) - volume can be mounted as read-write by a single node.
-* ReadOnlyMany(ROX) - volume can be mounted read-only by many nodes.
 * ReadWriteMany(RWX) - volume can be mounted as read-write by many nodes.
 * ReadWriteOncePod(RWOP) - volume can be mounted as read-write by a single Pod.
 

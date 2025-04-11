@@ -15,7 +15,6 @@ ignore:
   - "internal/storage/integration"
   - "cmd/jaeger/internal/integration"
   - "internal/tools"
-
 coverage:
   precision: 2
   round: down
